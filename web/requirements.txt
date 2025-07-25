@@ -1,10 +1,4 @@
 fastapi
-uvicorn
-pydantic
+uvicorn[standard]
 python-dotenv
-requests
 google-generativeai
-crawl4ai
-bs4
-aiohttp
-aiofiles

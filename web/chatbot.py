@@ -23,7 +23,10 @@ class MOSDACChatbot:
         """Load the latest scraped MOSDAC content from data/mosdac_content/"""
         import glob
         import os
-        files = glob.glob("data/mosdac_content/pages_*.json")
+        # Get the path relative to the project root (parent of web directory)
+        project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        data_path = os.path.join(project_root, "data", "mosdac_content", "pages_*.json")
+        files = glob.glob(data_path)
         if not files:
             print("❌ No scraped data found in data/mosdac_content/. Please run the scraper first.")
             return []
