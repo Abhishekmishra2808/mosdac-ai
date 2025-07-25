@@ -5,10 +5,15 @@ from chatbot import MOSDACChatbot
 
 app = FastAPI()
 
-# Allow frontend to connect
+# CORS configuration - Allow frontend to connect to backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:3000",  # Local React development
+        "http://127.0.0.1:3000",  # Alternative localhost
+        "https://mosdac-ai.onrender.com",  # Your deployed backend
+        "*"  # Allow all origins (for testing)
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

@@ -1,7 +1,12 @@
 import React, { useState, useRef, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8000/chat";
+// Use environment variable or fallback to local development
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8000/chat";
+
+// Debug log to verify the API URL
+console.log("🔗 API_URL:", API_URL);
+console.log("🌍 NODE_ENV:", process.env.NODE_ENV);
 
 export default function App() {
   const [messages, setMessages] = useState([]);
@@ -54,12 +59,24 @@ export default function App() {
     setMessages((msgs) => [...msgs, userMsg]);
     
     try {
+      console.log("🚀 Sending request to:", API_URL);
+      console.log("📝 Message:", messageText);
+      
       const res = await fetch(API_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: messageText })
       });
+      
+      console.log("📡 Response status:", res.status);
+      
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+      
       const data = await res.json();
+      console.log("✅ Response data:", data);
+      
       setMessages((msgs) => [
         ...msgs,
         { 
@@ -68,12 +85,13 @@ export default function App() {
           time: new Date().toLocaleTimeString() 
         }
       ]);
-    } catch {
+    } catch (error) {
+      console.error("❌ Error:", error);
       setMessages((msgs) => [
         ...msgs,
         { 
           sender: "bot", 
-          text: "Error: Could not connect to AI.", 
+          text: `Error: Could not connect to AI. ${error.message}`, 
           time: new Date().toLocaleTimeString() 
         }
       ]);
