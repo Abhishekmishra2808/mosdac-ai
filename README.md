@@ -33,12 +33,6 @@ An intelligent chatbot that provides comprehensive information about MOSDAC (Met
 - aiohttp (for async operations)
 ```
 
-### Environment Setup
-```bash
-# Your .env file already contains:
-GEMINI_API_KEY=AIzaSyCl9nPK-mUNIHKwLv1wLr1KJe0BcFNg_tA
-```
-
 ## 🚀 **Which File to Use**
 
 ### **🎯 For Daily Use:**
