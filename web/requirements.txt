@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+google-generativeai
+crawl4ai
+bs4
+aiohttp
+aiofiles
