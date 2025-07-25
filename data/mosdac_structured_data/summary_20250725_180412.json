@@ -1,0 +1,2813 @@
+[
+  {
+    "url": "https://www.mosdac.gov.in/",
+    "title": "Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a Data Centre of Space Applications Centre (SAC) for satellite data reception, processing, analysis and dissemination.",
+    "headings": [
+      {
+        "level": "h2",
+        "text": ""
+      },
+      {
+        "level": "h2",
+        "text": "Services"
+      },
+      {
+        "level": "h2",
+        "text": "City Weather"
+      },
+      {
+        "level": "h2",
+        "text": "Cold Waves"
+      },
+      {
+        "level": "h2",
+        "text": "Cyclone"
+      },
+      {
+        "level": "h2",
+        "text": "Heat Waves"
+      },
+      {
+        "level": "h2",
+        "text": "Heavy Rain"
+      },
+      {
+        "level": "h2",
+        "text": "Lightning"
+      },
+      {
+        "level": "h2",
+        "text": "Monsoon"
+      },
+      {
+        "level": "h2",
+        "text": "Sea State"
+      },
+      {
+        "level": "h2",
+        "text": "Solar & Wind"
+      },
+      {
+        "level": "h2",
+        "text": "Cloud Burst"
+      },
+      {
+        "level": "h2",
+        "text": "Heavy Rain"
+      },
+      {
+        "level": "h2",
+        "text": "AWS Time Series"
+      },
+      {
+        "level": "h2",
+        "text": "Heavy Rain"
+      },
+      {
+        "level": "h2",
+        "text": "MOSDAC LIVE"
+      },
+      {
+        "level": "h2",
+        "text": "Indian State Portal"
+      },
+      {
+        "level": "h2",
+        "text": "South East Asian Countries"
+      },
+      {
+        "level": "h2",
+        "text": "Urja"
+      },
+      {
+        "level": "h2",
+        "text": "VARSHA"
+      },
+      {
+        "level": "h2",
+        "text": "VAYU"
+      },
+      {
+        "level": "h2",
+        "text": "Soil Moisture"
+      },
+      {
+        "level": "h2",
+        "text": "SCORPIO"
+      },
+      {
+        "level": "h2",
+        "text": "OIL SPILL"
+      },
+      {
+        "level": "h2",
+        "text": "Ocean Subsurface Fields"
+      },
+      {
+        "level": "h2",
+        "text": "Safe Beach"
+      },
+      {
+        "level": "h2",
+        "text": "Ocean-Eye"
+      },
+      {
+        "level": "h2",
+        "text": "Eddy Currents"
+      },
+      {
+        "level": "h2",
+        "text": "Announcements"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Services",
+        "description": "Services\n\nForecast(active tab)\nNowcast\nCurrent Events\nAlerts\nMet Applications\nOcean Applications\n\n\n\n\n\n \n\n\nCity Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\n",
+        "links": [
+          {
+            "url": "https://www.mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf",
+            "text": "SFTP Services for Data Download"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "description": "Services\n\nForecast(active tab)\nNowcast\nCurrent Events\nAlerts\nMet Applications\nOcean Applications\n\n\n\n\n\n \n\n\nCity Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\n",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "Forecast(active tab)\nNowcast\nCurrent Events\nAlerts\nMet Applications\nOcean Applications\n\n\n\n\n\n \n\n\nCity Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\n",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "Forecast(active tab)\nNowcast\nCurrent Events\nAlerts\nMet Applications\nOcean Applications\n\n\n\n\n\n \n\n\nCity Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\n",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "City Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\nSea State forecast in terms of Wave Height, Wave period etc.\n\n\n \n\n \n\n\nSolar & Wind\n3 Days Solar ",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "City Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\nSea State forecast in terms of Wave Height, Wave period etc.\n\n\n \n\n \n\n\nSolar & Wind\n3 Days Solar ",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "City Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\nSea State forecast in terms of Wave Height, Wave period etc.\n\n\n \n\n \n\n\nSolar & Wind\n3 Days Solar ",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "City Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\nSea State forecast in terms of Wave Height, Wave period etc.\n\n\n \n\n \n\n\nSolar & Wind\n3 Days Solar ",
+        "links": []
+      },
+      {
+        "title": "City Weather",
+        "description": "City Weather\n3-hourly Weather forecast.\n\n\n \n\n \n\n\nCold Waves\nCold wave prediction over India (WRF Model)\n\n\n \n\n \n\n\nCyclone\nSat. Based Cyclone Obser. and Realtime Pred. over IO.\n\n\n \n\n \n\n\nHeat Waves\nHeat Wave Prediction over India (WRF Model)\n\n\n \n\n \n\n\nHeavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.\n\n\n \n\n \n\n\nLightning\nLightning Forecast\n\n\n \n\n \n\n\nMonsoon\nMonsoon Prediction 2024\n\n\n \n\n \n\n\nSea State\nSea State forecast in terms of Wave Height, Wave period etc.\n\n\n \n\n \n\n\nSolar & Wind\n3 Days Solar ",
+        "links": []
+      },
+      {
+        "title": "Heavy Rain",
+        "description": "Heavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.",
+        "links": []
+      },
+      {
+        "title": "Heavy Rain",
+        "description": "Heavy Rain\nHeavy Rain (>5mm/hr) forecast using NWP model.",
+        "links": []
+      },
+      {
+        "title": "Sea State",
+        "description": "Sea State\nSea State forecast in terms of Wave Height, Wave period etc.",
+        "links": []
+      },
+      {
+        "title": "Sea State",
+        "description": "Sea State\nSea State forecast in terms of Wave Height, Wave period etc.",
+        "links": []
+      },
+      {
+        "title": "Solar & Wind",
+        "description": "Solar & Wind\n3 Days Solar and Wind Forecast for every 15 minutes",
+        "links": []
+      },
+      {
+        "title": "Solar & Wind",
+        "description": "Solar & Wind\n3 Days Solar and Wind Forecast for every 15 minutes",
+        "links": []
+      },
+      {
+        "title": "Cloud Burst",
+        "description": "Cloud Burst\nCloud Burst Nowcast for 6 hours over Western Himalayan region.\n\n\n \n\n \n\n\nHeavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Cloud Burst",
+        "description": "Cloud Burst\nCloud Burst Nowcast for 6 hours over Western Himalayan region.\n\n\n \n\n \n\n\nHeavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Cloud Burst",
+        "description": "Cloud Burst\nCloud Burst Nowcast for 6 hours over Western Himalayan region.\n\n\n \n\n \n\n\nHeavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Cloud Burst",
+        "description": "Cloud Burst\nCloud Burst Nowcast for 6 hours over Western Himalayan region.\n\n\n \n\n \n\n\nHeavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Heavy Rain",
+        "description": "Heavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Heavy Rain",
+        "description": "Heavy Rain\nSatellite based nowcast for Heavy rain events for 6 hours.",
+        "links": []
+      },
+      {
+        "title": "Urja",
+        "description": "Urja\nSolar Energy\n\n\n \n\n \n\n\nVARSHA\nRainfall \n\n\n \n\n \n\n\nVAYU\nAir Quality\n\n\n \n\n \n\n\nSoil Moisture\nSoil Wetness Index\n\n\n \n\n \n\n\nSCORPIO\nSat. Based Cyclone Obser. and Realtime Pred. over IO.",
+        "links": []
+      },
+      {
+        "title": "Urja",
+        "description": "Urja\nSolar Energy\n\n\n \n\n \n\n\nVARSHA\nRainfall \n\n\n \n\n \n\n\nVAYU\nAir Quality\n\n\n \n\n \n\n\nSoil Moisture\nSoil Wetness Index\n\n\n \n\n \n\n\nSCORPIO\nSat. Based Cyclone Obser. and Realtime Pred. over IO.",
+        "links": []
+      },
+      {
+        "title": "Urja",
+        "description": "Urja\nSolar Energy\n\n\n \n\n \n\n\nVARSHA\nRainfall \n\n\n \n\n \n\n\nVAYU\nAir Quality\n\n\n \n\n \n\n\nSoil Moisture\nSoil Wetness Index\n\n\n \n\n \n\n\nSCORPIO\nSat. Based Cyclone Obser. and Realtime Pred. over IO.",
+        "links": []
+      },
+      {
+        "title": "Urja",
+        "description": "Urja\nSolar Energy\n\n\n \n\n \n\n\nVARSHA\nRainfall \n\n\n \n\n \n\n\nVAYU\nAir Quality\n\n\n \n\n \n\n\nSoil Moisture\nSoil Wetness Index\n\n\n \n\n \n\n\nSCORPIO\nSat. Based Cyclone Obser. and Realtime Pred. over IO.",
+        "links": []
+      },
+      {
+        "title": "OIL SPILL",
+        "description": "OIL SPILL\nALTIMETER LCS-CORES AND STRETCHING DIRECTIONS\n\n\n \n\n \n\n\nOcean Subsurface Fields\nOcean Subsurface Fields\n\n\n \n\n \n\n\nSafe Beach\nRIP Current Forecast for All-India beaches.\n\n\n \n\n \n\n\nOcean-Eye\nOcean State Forecast\n\n\n \n\n \n\n\nEddy Currents\nEddy Currents",
+        "links": []
+      },
+      {
+        "title": "OIL SPILL",
+        "description": "OIL SPILL\nALTIMETER LCS-CORES AND STRETCHING DIRECTIONS\n\n\n \n\n \n\n\nOcean Subsurface Fields\nOcean Subsurface Fields\n\n\n \n\n \n\n\nSafe Beach\nRIP Current Forecast for All-India beaches.\n\n\n \n\n \n\n\nOcean-Eye\nOcean State Forecast\n\n\n \n\n \n\n\nEddy Currents\nEddy Currents",
+        "links": []
+      },
+      {
+        "title": "OIL SPILL",
+        "description": "OIL SPILL\nALTIMETER LCS-CORES AND STRETCHING DIRECTIONS\n\n\n \n\n \n\n\nOcean Subsurface Fields\nOcean Subsurface Fields\n\n\n \n\n \n\n\nSafe Beach\nRIP Current Forecast for All-India beaches.\n\n\n \n\n \n\n\nOcean-Eye\nOcean State Forecast\n\n\n \n\n \n\n\nEddy Currents\nEddy Currents",
+        "links": []
+      },
+      {
+        "title": "OIL SPILL",
+        "description": "OIL SPILL\nALTIMETER LCS-CORES AND STRETCHING DIRECTIONS\n\n\n \n\n \n\n\nOcean Subsurface Fields\nOcean Subsurface Fields\n\n\n \n\n \n\n\nSafe Beach\nRIP Current Forecast for All-India beaches.\n\n\n \n\n \n\n\nOcean-Eye\nOcean State Forecast\n\n\n \n\n \n\n\nEddy Currents\nEddy Currents",
+        "links": []
+      },
+      {
+        "title": "Safe Beach",
+        "description": "Safe Beach\nRIP Current Forecast for All-India beaches.",
+        "links": []
+      },
+      {
+        "title": "Safe Beach",
+        "description": "Safe Beach\nRIP Current Forecast for All-India beaches.",
+        "links": []
+      },
+      {
+        "title": "Announcements",
+        "description": "Announcements\n\n\n\n\n Monsoon Onset Prediction over Kerala (2024)       |   \n   PDF, Tool: PDFViewer, Size:  763.84 KB       |   \n   20-May-24  \n\n Onset over Kerala - Monsoon 2023       |   \n   PDF, Tool: PDFViewer, Size:  463.15 KB       |   \n   15-May-23  \n\n INSAT Product Version Information       |   \n   PDF, Tool: PDFViewer, Size:  1.61 MB       |   \n   01-Sep-22  \n\n SFTP Services for Data Download       |   \n   PDF, Tool: PDFViewer, Size:  347.33 KB       |   \n   08-Nov-21  \n\n\n\n    archive",
+        "links": [
+          {
+            "url": "https://www.mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf",
+            "text": "SFTP Services for Data Download"
+          }
+        ]
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 8
+  },
+  {
+    "url": "https://www.mosdac.gov.in/about-us",
+    "title": "About Us | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Space Applications Centre (SAC) is an ISRO Centre located at Ahmedabad, dealing with a wide variety of themes from satellite payload development, operational data reception and processing to societal applications. SAC is responsible for the development, realization and qualification of communication, navigation, earth observation and planetary payloads and related data",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "About Us"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "About Us",
+        "description": "About Us \n\n\n\n\n\n\nSpace Applications Centre (SAC) is an ISRO Centre located at Ahmedabad, dealing with a wide variety of themes from satellite payload development, operational data reception and processing to societal applications. SAC is responsible for the development, realization and qualification of communication, navigation, earth observation and planetary payloads and related data processing and ground systems in the areas of communications, broadcasting, remote sensing and disaster monitori",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/help",
+    "title": "Help | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Help"
+      },
+      {
+        "level": "h3",
+        "text": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible."
+      },
+      {
+        "level": "h3",
+        "text": "Viewing different file types"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Help",
+        "description": "Help \n\n\n\n\n\n\nAccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disabili",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      },
+      {
+        "title": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.",
+        "description": "AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can acces",
+        "links": []
+      }
+    ],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/faq-page",
+    "title": "Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a Data Centre of Space Applications Centre (SAC) for satellite data reception, processing, analysis and dissemination.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Frequently Asked Questions",
+        "description": "Frequently Asked Questions \n\n\n\n\n\n\nWhat is MOSDAC?  \n\n\n\n\nMOSDAC is the short form of Meteorological and Oceanographic Satellite Data Archival Center. It is a ISRO data portal which provides data through its web based service https://mosdac.gov.in\n  \n \n\n\nHow to be a registered user of MOSDAC?  \n\n\n\nThere is \"SignUp\" form available on MOSDAC portal. Pl fill up the form and submit. You will be intimated through e-mail about the approval.\n  \n \n\n\nI have registered on MOSDAC . i have received an email f",
+        "links": [
+          {
+            "url": "/faq-page",
+            "text": "I don't have username and password of MOSDAC. Can I download data?"
+          },
+          {
+            "url": "/faq-page",
+            "text": "How Ordered and download the satellite data ?"
+          },
+          {
+            "url": "/faq-page",
+            "text": "I am a registered user of MOSDAC. When I download L1 data I get the message \"Your account is configured to download this data with latency of  3 days. Please select date accordingly.\" How should I download data?"
+          }
+        ]
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/insat-3dr",
+    "title": "INSAT-3DR | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "INSAT-3DR is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "INSAT-3DR"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "INSAT-3DR",
+        "description": "INSAT-3DR \n\n\n\n\n\n\nINSAT-3DR is identical to INSAT-3D in terms of Sensors and products. \nINSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 2
+  },
+  {
+    "url": "https://www.mosdac.gov.in/insat-3d",
+    "title": "INSAT-3D | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "INSAT-3D"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "INSAT-3D",
+        "description": "INSAT-3D \n\n\n\n\n\n\nINSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3D is a multipurpose geosynchronous spacecraft with main",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 2
+  },
+  {
+    "url": "https://www.mosdac.gov.in/insat-3ds",
+    "title": "INSAT-3DS | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "INSAT-3DS is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "INSAT-3DS"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "INSAT-3DS",
+        "description": "INSAT-3DS \n\n\n\n\n\n\nINSAT-3DS is identical to INSAT-3D in terms of Sensors and products. \nINSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 2
+  },
+  {
+    "url": "https://www.mosdac.gov.in/kalpana-1",
+    "title": "KALPANA-1 | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Metsat is an exclusive meteorological satellite of ISRO in geo-synchronous orbit. This satellite is developed out of a small I-1000 bus made of carbon fibre re-enforced plastic light weight structure, a uni power bus employing an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts of power. Metsat uses a 3-axis stabilized momentum biased attitude control",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "KALPANA-1"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "KALPANA-1",
+        "description": "KALPANA-1 \n\n\n\n\n\n\nMetsat is an exclusive meteorological satellite of ISRO in geo-synchronous orbit. This satellite is developed out of a small I-1000 bus made of carbon fibre re-enforced plastic light weight structure, a uni power bus employing an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts of power. Metsat uses a 3-axis stabilized momentum biased attitude control system with suitable linearly controlled magnetic torquers for solar radiation pressure compensation. A u",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/insat-3a",
+    "title": "INSAT-3A | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "INSAT-3A is a multipurpose satellite for providing telecommunications, television broadcasting, meteorological and search & rescue services. It carries twenty four transponders - twelve operating in the normal C-band frequency, six in Extended C-band and six in Ku-band. Nine of the twelve normal C-band transponders provide expanded coverage and the remaining three have India",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "INSAT-3A"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "INSAT-3A",
+        "description": "INSAT-3A \n\n\n\n\n\n\nINSAT-3A is a multipurpose satellite for providing telecommunications, television broadcasting, meteorological and search & rescue services. It carries twenty four transponders - twelve operating in the normal C-band frequency, six in Extended C-band and six in Ku-band. Nine of the twelve normal C-band transponders provide expanded coverage and the remaining three have India coverage beam. All the extended C-band as well as the Ku-band transponders has India coverage beams. INSAT",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/megha-tropiques",
+    "title": "Megha Tropiques | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Megha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions. Megha-Tropiques",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Megha Tropiques"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Megha Tropiques",
+        "description": "Megha Tropiques \n\n\n\n\n\n\nMegha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions. Megha-Tropiques provides scientific data on the contribution of the water cycle to the tropical atmosphere, with informat",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/saral-altika",
+    "title": "SARAL-AltiKa | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "SARAL mission results from the common interest of both CNES and ISRO in studying ocean from space using altimetry system and in promoting maximum use of the ARGOS Data Collecting System. Radar altimetry by satellite is a technique used in oceanography to measure, globally over the oceans, the sea level needed to understand ocean circulation and its variability. The importance",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "SARAL-AltiKa"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "SARAL-AltiKa",
+        "description": "SARAL-AltiKa \n\n\n\n\n\n\nSARAL mission results from the common interest of both CNES and ISRO in studying ocean from space using altimetry system and in promoting maximum use of the ARGOS Data Collecting System. Radar altimetry by satellite is a technique used in oceanography to measure, globally over the oceans, the sea level needed to understand ocean circulation and its variability. The importance of altimetry data to better understand the ocean circulation and its impact on the climate of the Ear",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/oceansat-2",
+    "title": "Oceansat-2 | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Oceansat-2"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Oceansat-2",
+        "description": "Oceansat-2 \n\n\n\n\n\n\nOceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency. Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) w",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/oceansat-3",
+    "title": "OCEANSAT-3 | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "EOS-06(Oceansat-3) also known as Earth Observing Satellite EOS-06(Oceansat-3), was launched by PSLV-C54 from Satish Dhawan Space Centre, Sriharikota on 26 November 2022. EOS-06(Oceansat-3) is developed to provide a unique opportunity for simultaneously measuring the physical, biological and atmospheric parameters for the first time from three instruments, (i) 13-band advanced",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "OCEANSAT-3"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "OCEANSAT-3",
+        "description": "OCEANSAT-3 \n\n\n\n\n\n\nEOS-06(Oceansat-3) also known as Earth Observing Satellite EOS-06(Oceansat-3),  was launched by PSLV-C54 from Satish Dhawan Space Centre, Sriharikota on 26 November 2022. EOS-06(Oceansat-3) is developed to provide a unique opportunity for simultaneously measuring the physical, biological and atmospheric parameters for the first time from three instruments, (i) 13-band advanced Ocean Colour Monitor (OCM-3), (ii) Ku-band Scatterometer (SCAT-3) and (ii) a 2-channel Sea Surface Tem",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/scatsat-1",
+    "title": "SCATSAT-1 | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Scatsat-1 was launched by PSLV-C35 from Satish Dhawan Space Centre, Sriharikota on September 26, 2016. It carries the Ku-band Pencil Beam scatterometer (SCAT) payload developed by SAC-ISRO.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "SCATSAT-1"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/catalog-satellite",
+    "title": "Satellite Catalog",
+    "description": "",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Loading..."
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct\n\t\t\t\t\t\t\t\t\t/Acq Calendar/Version\n\t\t\t\t\t\t\t\tProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n\n\nE06OCM_L2C_LAC_AD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nScenewise Aerosol Optical Depth over Land\nL2\nSCENEWISE\n2024-10-01\n2025-07-25\nActive\n\n\n\n2\n\n\nE06OCM_L2C_LAC_GA \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nColoured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1)\nL2\nS",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct\n\t\t\t\t\t\t\t\t\t/Acq Calendar/Version\n\t\t\t\t\t\t\t\tProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n\n\nE06OCM_L2C_LAC_AD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nScenewise Aerosol Optical Depth over Land\nL2\nSCENEWISE\n2024-10-01\n2025-07-25\nActive\n\n\n\n2\n\n\nE06OCM_L2C_LAC_GA \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nColoured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1)\nL2\nS",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct\n\t\t\t\t\t\t\t\t\t/Acq Calendar/Version\n\t\t\t\t\t\t\t\tProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n\n\nE06OCM_L2C_LAC_AD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nScenewise Aerosol Optical Depth over Land\nL2\nSCENEWISE\n2024-10-01\n2025-07-25\nActive\n\n\n\n2\n\n\nE06OCM_L2C_LAC_GA \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nColoured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1)\nL2\nS",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct\n\t\t\t\t\t\t\t\t\t/Acq Calendar/Version\n\t\t\t\t\t\t\t\tProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n\n\nE06OCM_L2C_LAC_AD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nScenewise Aerosol Optical Depth over Land\nL2\nSCENEWISE\n2024-10-01\n2025-07-25\nActive\n\n\n\n2\n\n\nE06OCM_L2C_LAC_GA \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nColoured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1)\nL2\nS",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/catalog-insitu",
+    "title": "In-situ Catalog",
+    "description": "",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Loading..."
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 1,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/catalog-radar",
+    "title": "Radar Catalog",
+    "description": "",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Loading..."
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct /Acq CalendarProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n \nRSCHR_L2B_STD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDWR Data for Cheerapunji\nL2B\n10 MINUTES\n2016-05-20\n2022-11-05\nActive\n\n\n\nShowing 1 to 1 of 1 entriesPrevious1NextLoading...",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct /Acq CalendarProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n \nRSCHR_L2B_STD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDWR Data for Cheerapunji\nL2B\n10 MINUTES\n2016-05-20\n2022-11-05\nActive\n\n\n\nShowing 1 to 1 of 1 entriesPrevious1NextLoading...",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct /Acq CalendarProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n \nRSCHR_L2B_STD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDWR Data for Cheerapunji\nL2B\n10 MINUTES\n2016-05-20\n2022-11-05\nActive\n\n\n\nShowing 1 to 1 of 1 entriesPrevious1NextLoading...",
+        "links": []
+      },
+      {
+        "title": "Loading...",
+        "description": "Show 102550100 entries:\n\nSr.NoProduct /Acq CalendarProduct DescriptionProcessing LevelTemporal ResolutionStart DateEnd DateProcessing StatusDOI\n\n\n\n\n1\n \nRSCHR_L2B_STD \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDWR Data for Cheerapunji\nL2B\n10 MINUTES\n2016-05-20\n2022-11-05\nActive\n\n\n\nShowing 1 to 1 of 1 entriesPrevious1NextLoading...",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/gallery",
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/gallery/weather",
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/gallery/ocean",
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/gallery/dwr",
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/gallery/current",
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/uops",
+    "title": "Log in to MOSDAC Single Sign ON",
+    "description": "",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/calval-data",
+    "title": "Log in to MOSDAC Single Sign ON",
+    "description": "",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/internal/forecast-menu",
+    "title": "Log in to MOSDAC Single Sign ON",
+    "description": "",
+    "headings": [],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/bayesian-based-mt-saphir-rainfall",
+    "title": "Bayesian based MT-SAPHIR rainfall | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Bayesian based MT-SAPHIR rainfall"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Bayesian based MT-SAPHIR rainfall",
+        "description": "Bayesian based MT-SAPHIR rainfall \n\n\n\n\n\n\nMegha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospher",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Megha- Tropiques (MT) is a joint Indo-French collaborative satellite mission, which is launched on 12 October 2011. The main objective of MT is to get more understanding on convective system, energy exchange and water cycle in the tropical region. It is equipped with Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS) (not in operational), Scanner for Radiation Budget, Radio Occultation Sensor for Atmosphere and  Sondeur Atmospherique du Profil d’Humidite Intertropical p",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products. Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.1 (beta)\n\n\nData Sources\n\n\nSAPHIR Level 1A TB data\n\n\nProcessing Steps\n\n\nSAPHIR Level-1 brightness temperature of channel-6 (Tb6) and spatial variability of Tb6 (Std-tb6) within ±3 pixels (~30km at nadir and ~60km off nadir) is calculated.Bayesian algorithm is trained using GPM-IMERG half hourly rainfall Bayesian approach is applied to estimate",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 8
+  },
+  {
+    "url": "https://www.mosdac.gov.in/gps-derived-integrated-water-vapour",
+    "title": "GPS derived Integrated water vapour | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "GPS derived Integrated water vapour"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "GPS derived Integrated water vapour",
+        "description": "GPS derived Integrated water vapour \n\n\n\n\n\n\nThis dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "This dataset contains Integrated Water Vapor (IWV) estimates derived from GPS receivers that comprise the GAGAN TEC network. These receivers have been installed at airports at various locations in India. The Zenith Tropospheric Delay was estimated from the GPS observations using the GAMIT software. Further, IWV was estimated from the ZTD values using surface temperature and pressure from ERA-I reanalysis as additional inputs. The GAGAN-IWV estimates for 1 year – March 2013 to February 2014 – hav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nGPS receivers from GAGAN TEC Network\n\n\nProcessing Steps\n\n\nGAMIT software used to derive Zenith Tropspheric Delay (ZTD)\nIntegrated Water Vapor (IWV) derived using procedure described in Bevis et. al. (1992)\n\n\nReferences\n\n\nM. Bevis, S. Businger, T. A. Herring, C. Rocken, R. A. Anthes, and R. H. Ware, “GPS Meteorology:",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 9
+  },
+  {
+    "url": "https://www.mosdac.gov.in/gsmap-isro-rain",
+    "title": "GSMap ISRO Rain | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specific",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "GSMap ISRO Rain"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "GSMap ISRO Rain",
+        "description": "GSMap ISRO Rain  \n\n\n\n\n\n\nThe GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The GSMaP_ISRO is a precipitation product that was developed through the Indian Space Research Organisation (ISRO) - Japan Aerospace Exploration Agency (JAXA) Implementation of Agreement (IA) specifically for the Indian subcontinent. It is currently available from March 2000 Onwards and offers a horizontal resolution of 0.1°X 0.1° on a latitude/longitude grid with a temporal resolution of 1 hour. The dataset is based on the Global Satellite Mapping of Precipitation (GSMaP) algorithm (Kubota et a",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nScience products are available to download with a Single Sign On on MOSDAC. Click Here to access the data\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nGSMaP_MVK product, NOAA Climate Prediction Center (CPC) rainfall analysis, CPC Infrared brightness temperature, IMD gridded rain (0.25 degree), etc.\n\n\nProcessing Steps\n\n\n-For gauge adjustment, the software used was JAXA MCD_V05.02, based upon Mega et al. (2019). -Merging NOAA CPC and Indian gauges was accomplished using Matlab so",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 8
+  },
+  {
+    "url": "https://www.mosdac.gov.in/meteosat8-cloud-properties",
+    "title": "METEOSAT8 Cloud Properties | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "METEOSAT8 Cloud Properties"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "METEOSAT8 Cloud Properties",
+        "description": "METEOSAT8 Cloud Properties \n\n\n\n\n\n\nNASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwav",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness.\n \n\nDa",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\n Click Here to access the Science Products. Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\n\nFormat : NetCDF (nc4)\n\nCDO Version : 1.9.3 , Conventions : CF 1.6\n\n\n\nData Sources\n\n\nCloud Properties Products, downloaded from LaRC, NASA\n\n\nProcessing Steps\n        https://satcorps.larc.nasa.gov/CERES_algorithms/(link is external)\nReferences\n\n\nB. A. Wielicki, B. R. Barkstrom, B. A. Baum, T. P. Charlock, R. N. Green, D. P. Kratz, R. B. Lee, P. Minnis",
+        "links": []
+      },
+      {
+        "title": "MetaData",
+        "description": "Following file naming convention are followed:\n\n\nNetCDF File Name (NetCDFFileName):  M8SEV_DDMMMYYYY_HHMM_L2B_CP_IND_V04.0.nc\nParameter Chip File Name  : NetCDFFilename_CloudParamName(4 Char).jpg\n\nFile Nomenclature Details:\nSatIdSensorId_AcquisitionDateTime_ProcessingLevel_ProductName_ProductRegion_Version.nc\nSatId (2 Char) = M8\nSensorId ( 3 Char)= SEV (SEVIRI sensor)\nAcquisitionDateTime (14 Char) = DDMMMYYYY_HHMM\nProcessingLevel (3 Char) = L2B\nProductName (2 Char) = CP (Cloud Properties)\nProduc",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 7
+  },
+  {
+    "url": "https://www.mosdac.gov.in/3d-volumetric-terls-dwrproduct",
+    "title": "3D Volumetric TERLS DWRproduct | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumet",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "3D Volumetric TERLS DWRproduct"
+      },
+      {
+        "level": "h3",
+        "text": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications."
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Reference"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "3D Volumetric TERLS DWRproduct",
+        "description": "3D Volumetric TERLS DWRproduct \n\n\n\n\n\n\n\n These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological an",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      },
+      {
+        "title": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applications.",
+        "description": "These products contain the 3D volumetric gridded de-cluttered radar reflectivity and de-aliased radial velocity generated from the C-Band Thumba Equatorial Rocket Launching Station (TERLS) DWR Volumetric PPI Scan data. The data grid has dimensions of (81x481x481) with a horizontal resolution of (1 km x 1 km) and vertical resolution of (250 m). The maximum altitude considered in while gridding is 20.0 km. This product can be used for various hydrological and numerical weather prediction applicati",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 6
+  },
+  {
+    "url": "https://www.mosdac.gov.in/inland-water-height",
+    "title": "Inland Water Height | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Inland Water Height"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "Related data collections"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Inland Water Height",
+        "description": "Inland Water Height \n\n\n\n\n\n\nIt is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO t",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "It is crucial to know how the storage of inland water bodies change over time. Also, hydrological modelling studies face the challenge of decreasing availability of in-situ monitoring data. However, application of satellite radar altimetry over the inland water bodies becomes vital tool to estimate water levels through waveform retracking on satellite altimetry?s sensor data. SARAL-Altika was launched on 25 February 2013. It is a joint-mission of CNES France and ISRO to provide continuous monito",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nAltimeter Interim Geophysical Data Record (IGDR)\nGeophysical Data Record (GDR)\nECMWF Pressure Fields\nGlobal Ionosphere Maps (GIM) produced Total Electron Content (TEC) maps\n\n\nProcessing Steps\n\n\nFirstly the waveforms are classified based on their signature, and then these waveforms are retracked with the suitable ret",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 10
+  },
+  {
+    "url": "https://www.mosdac.gov.in/river-discharge",
+    "title": "River Discharge | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "River Discharge"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "Related data collections"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "River Discharge",
+        "description": "River Discharge \n\n\n\n\n\n\nRiver heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use M",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "River heights from satellite altimeters (ENVISAT, Jason-2 and SARAL AltiKa) have been derived at two cross-over points along Godavari River. Subsequently, river height discharge stage relationship between altimetry derived heights and In-situ river discharge has been established. Using this relationship, river discharge database for Godavari River for the period i.e. 2002 - 2015 has been generated.\n \n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On us",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n1. GDR tracked data of ENVISAT and Jason-2 (PISTACH Hydrology) at Yanam (estuarine side) and Bhadrachalam (riverine side) for the entire period of respective missions were obtained from\n  a. ENVISAT website(http://earth.esa.int/(link is external))  b.AVISO website(http://www.avisooceanobs.com(link is external))(Jason-",
+        "links": []
+      },
+      {
+        "title": "Processing Steps",
+        "description": "1. GDR tracked data of ENVISAT and Jason-2 (PISTACH Hydrology) at Yanam (estuarine side) and Bhadrachalam (riverine side) for the entire period of respective missions were obtained from\n  a. ENVISAT website(http://earth.esa.int/(link is external))  b.AVISO website(http://www.avisooceanobs.com(link is external))(Jason-2)2. SARAL/AltiKa data were obtained from MOSDAC website (http://www.mosdac.gov.in)\nProcessing Steps\n\n\nThe given range was corrected for\n\npath delay in the atmosphere through which ",
+        "links": []
+      }
+    ],
+    "tables_count": 3,
+    "lists_count": 10
+  },
+  {
+    "url": "https://www.mosdac.gov.in/soil-moisture-0",
+    "title": "Soil Moisture | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Data AccessClick Here to access the Science Products .",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Soil Moisture"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Soil Moisture",
+        "description": "Soil Moisture \n\n\n\n\n\n\n\nData Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and ",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nSMAP L-band radiometer data\n\n\nProcessing Steps\n\n\nFollowing are the three major processing steps :\ni. SMAP L1C daily data.\nii. Import previous 3 days data\niii. Generate global mosaic of Tb\niv. Generate Indian mosaic of Tb\nv. Generate SWI from Tb and gridding the data\n\n\nDerivation Techniques and Algorithm\n\n\nSoil Wetne",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 6
+  },
+  {
+    "url": "https://www.mosdac.gov.in/global-ocean-surface-current",
+    "title": "Global Ocean Surface Current | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Global Ocean Surface Current"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Data Citation"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "Related data collections"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Global Ocean Surface Current",
+        "description": "Global Ocean Surface Current \n\n\n\n\n\n\nThe Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the ",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Global Ocean Surface Current defined here as the average current for the top 0 to 30m layer is derived from the synergistic use of three different satellite derived parameters. The first one is the Altimeter derived gridded Map of Absolute Dynamic Topography (MADT) generated from the suite of altimeters such as JASON-2, SARAL/ALTIKA, Cryosat etc., the second data set is the gridded ocean surface vector winds derived ASCAT wind data and the last one is the gridded SST data derived from AVHRR.",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\n\nThe daily gridded map of Absolute Dynamic Topography data is obtained from\n\nAVISO/DUACS ftp site (ftp://ftp.aviso.oceanobs.com)\n\n\n\n\n\n\n\nThe daily gridded ocean surface vector wind data from ASCAT is obtained from\n\nftp://ftp.ifremer.fr/ifremer/cersat/products/gridded/MWF/L3/ASCAT/Daily\n\n\n\n\n\n\n\nThe daily gridded SST da",
+        "links": []
+      }
+    ],
+    "tables_count": 7,
+    "lists_count": 24
+  },
+  {
+    "url": "https://www.mosdac.gov.in/high-resolution-sea-surface-salinity",
+    "title": "High Resolution Sea Surface Salinity | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "High Resolution Sea Surface Salinity"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "High Resolution Sea Surface Salinity",
+        "description": "High Resolution Sea Surface Salinity \n\n\n\n\n\n\nThe Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available sinc",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed pro",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nScience products are available to download with a Single Sign On on MOSDAC. Click Here to access the data\nData Version\n\n\nVersion 1.0 (beta).\n\n\nData Sources\n\n\nSMAP Sea Surface Salinity (https://podaac.jpl.nasa.gov/dataset/SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V5(link is external)) Altimetry-derived sea surface currents (https://data.marine.copernicus.eu/product/SEALEVEL_GLO_PHY_L4_MY_008_047/(link is external)).\n\n\nProcessing Steps\n\n\ni. Remap Sea Surface Currents with a spatial resoluti",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 9
+  },
+  {
+    "url": "https://www.mosdac.gov.in/indian-mainland-coastal-product",
+    "title": "Indian Mainland Coastal Product | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Indian Mainland Coastal Product"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Indian Mainland Coastal Product",
+        "description": "Indian Mainland Coastal Product  \n\n\n\n\n\n\nSARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "SARAL/AltiKa was launched on 25 February 2013 as a joint collaboration mission of ISRO and CNES. With smaller footprint than earlier satellite altimeters, SARAL/AltiKa has improved coastal performance. Specific waveform processing has been used in this product to derive along track geophysical parameters (Sea Surface Height, Significant wave height and wind speed) from the altimeter 40-Hz waveform data. This product is generated for Indian mainland coastal region (up to 50 km from the coast). Th",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.1 (Beta)\n\n\nData Sources\n\n\n\nAltimeter Sensor-Interim Geophysical Data Record (S-IGDR)\nIndian Ocean Bathymetry\nIndian Ocean Geoid\nHigh resolution coastline\n\n\n\nProcessing Steps\n\n\ni. High resolution bathymetry is used to separate the coastal and land waveforms.\nii. Waveforms are classified based on their shape.\niii. Waveforms are retracked with ",
+        "links": []
+      },
+      {
+        "title": "MetaData",
+        "description": "Netcdf file:\nSRL_CCC_TTTT_yyyymmddHHMMSS_yyyymmddHHMMSS_INDIANCOAST_SIGDR_VER1.1.nc;\nJPG Files:\nssha_cycCCC_yyyymmdd_yymmdd.jpg (sea surface height anomaly image)\nswh_cycCCC_yyyymmdd_yymmdd.jpg (swh image)\nwind_speed_cycCCC_yyyymmdd_yymmdd.jpg (wind speed image)\nWhere\nCCC is the cycle number and TTTT is the track number.,\nfirst yyyymmddHHMMSS is the start time of the file., and\nsecond yyyymmddHHMMSS is the end time of the file..\n\n\nFor values added wind wave power product:\nwind_power_cycCCC_yyyym",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 12
+  },
+  {
+    "url": "https://www.mosdac.gov.in/ocean-subsurface",
+    "title": "Ocean Subsurface | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Ocean Subsurface"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Ocean Subsurface",
+        "description": "Ocean Subsurface \n\n\n\n\n\n\nSatellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show ",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Satellite data has been used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal through the “interior + surface Quasigeostrophic” (isQG) method. The inputs are sea surface height anomaly (AVISO), sea surface density anomaly; which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity. One more input is the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data. The results show that isQG retrieved subs",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nReynold's Optimum Interpolated Sea Surface Temperature (OISST) (https://www.ncdc.noaa.gov/oisst(link is external))\nSMAP sea surface salinity (SSS) (https://smap.jpl.nasa.gov/data/(link is external)).\nAVISO sea surface height (SSH) (https://www.aviso.altimetry.fr/en/data.html(link is external)).\nISAS-13 temperature/s",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 9
+  },
+  {
+    "url": "https://www.mosdac.gov.in/oceanic-eddies-detection",
+    "title": "Oceanic Eddies Detection | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Oceanic Eddies Detection"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "Related data collections"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Oceanic Eddies Detection",
+        "description": "Oceanic Eddies Detection  \n\n\n\n\n\n\nThe oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour ap",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nThe daily gridded map of Absolute Dynamic Topography data is obtained from AVISO\nftp site (ftp://ftp.aviso.oceanobs.com)\nWebsite (http://www.aviso.oceanobs.com/(link is external))\n\n\nProcessing Steps\n\n\nRemove the long wavelength component of the SSH anomaly and retain the mesoscale features with the wavelength 50-500",
+        "links": [
+          {
+            "url": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html",
+            "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html(link is external)"
+          }
+        ]
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 10
+  },
+  {
+    "url": "https://www.mosdac.gov.in/sea-ice-occurrence-probability",
+    "title": "Sea Ice Occurrence Probability | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996).",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Sea Ice Occurrence Probability"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "Data Citation"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "Related data collections"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Sea Ice Occurrence Probability",
+        "description": "Sea Ice Occurrence Probability \n\n\n\n\n\n\nThe Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data(link is external) (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bi",
+        "links": []
+      },
+      {
+        "title": "Data Version",
+        "description": "Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nSIOP36 (ver BETA)\n\n\nData Sources\n\n\n\nThe major input data is NASA Team algorithm-derived SMMR-SSM/I-SSMIS sea ice concentration data over Antarctic Region (Cavalieri, 1996) for 36 years (October 1978 to December 2014). The data was downloaded from NSIDC data site: (http://nsidc.org/data(link is external)).\n\n\n\nProcessing Steps\n\n\nFollowing are the three major proces",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 13
+  },
+  {
+    "url": "https://www.mosdac.gov.in/wave-based-renewable-energy",
+    "title": "Wave based Renewable Energy | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Wave based Renewable Energy"
+      },
+      {
+        "level": "h3",
+        "text": "Data Access"
+      },
+      {
+        "level": "h3",
+        "text": "Data Version"
+      },
+      {
+        "level": "h3",
+        "text": "Data Sources"
+      },
+      {
+        "level": "h3",
+        "text": "Processing Steps"
+      },
+      {
+        "level": "h3",
+        "text": "References"
+      },
+      {
+        "level": "h3",
+        "text": "Derivation Techniques and Algorithm"
+      },
+      {
+        "level": "h3",
+        "text": "Limitations"
+      },
+      {
+        "level": "h3",
+        "text": "Known problems with data"
+      },
+      {
+        "level": "h3",
+        "text": "File Naming Convention"
+      },
+      {
+        "level": "h3",
+        "text": "MetaData"
+      },
+      {
+        "level": "h3",
+        "text": "Tags:"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Wave based Renewable Energy",
+        "description": "Wave based Renewable Energy \n\n\n\n\n\n\nAWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climato",
+        "links": []
+      },
+      {
+        "title": "Data Access",
+        "description": "Data Access\nClick Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data.\nData Version\n\n\nVersion 1.0 (beta)\n\n\nData Sources\n\n\nThe significant wave height (SWH) and wind speed for both the altimeters are taken from\n\nJason-2 (http://www.aviso.oceanobs.com(link is external))\nSARAL/ALTIKA (http://www.mosdac.gov.in)\n\n\n\n\nProcessing Steps\n\n\n\nUsing Significant Wave Height (SWH) and wind speed, the wave period is derived based on the data adaptive ",
+        "links": []
+      }
+    ],
+    "tables_count": 2,
+    "lists_count": 19
+  },
+  {
+    "url": "https://www.mosdac.gov.in/insitu",
+    "title": "Insitu | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Insitu"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/calibration-reports",
+    "title": "Relative | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Relative"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/validation-reports",
+    "title": "Validation | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Validation"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Validation",
+        "description": "Validation \n\n\n\n\n\n\nDisplay namemodified \nDisplay namemodified \n\nSatelliteThu, 2018-02-08 10:35 \nForecastWed, 2017-01-04 09:46 \n\n\n2 folders",
+        "links": []
+      }
+    ],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/data-quality",
+    "title": "Data Quality | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Data Quality"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Data Quality",
+        "description": "Data Quality \n\n\n\n\n\n\nDisplay namemodified \nDisplay namemodified \n\nSCATSAT1Thu, 2017-04-06 15:31 \nINSAT-3DRMon, 2017-03-27 11:18 \nINSAT-3DMon, 2017-03-27 11:18 \n\n\n3 folders",
+        "links": []
+      }
+    ],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/weather-reports",
+    "title": "Weather | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Weather"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 2,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/atlases",
+    "title": "Atlases | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Atlases"
+      },
+      {
+        "level": "h3",
+        "text": "Download PDF"
+      },
+      {
+        "level": "h2",
+        "text": ""
+      },
+      {
+        "level": "h3",
+        "text": "Read Online"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Atlases",
+        "description": "Atlases \n\n\n\n\n\n\n\n\n\n\n\n\nDownload PDF\n\n\n\n\n\nDisplay namesizemodified \nDisplay namesizemodified \n\nviewing_ocean_from_space.pdf(link is external)10.01 MBMon, 2020-01-27 10:00 \nSpectrum_of_India_AVIRIS-NG.pdf(link is external)27.64 MBThu, 2016-12-22 10:00 \nGlimspes_of_India_by_RISAT-1.pdf(link is external)88.53 MBMon, 2015-08-31 10:00 \nEyes_on_Waves_from_Space.pdf(link is external)6.24 MBThu, 2018-05-03 10:00 \nExploring_the_Antarctic.pdf(link is external)35.11 MBWed, 2020-02-19 10:00 \nImages_of_Moon_Fro",
+        "links": [
+          {
+            "url": "#quickset-atlases_qt_0",
+            "text": "Download PDF"
+          },
+          {
+            "url": "https://www.mosdac.gov.in/filebrowser/download/1290",
+            "text": "viewing_ocean_from_space.pdf(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Download PDF",
+        "description": "Download PDF\n\n\n\n\n\nDisplay namesizemodified \nDisplay namesizemodified \n\nviewing_ocean_from_space.pdf(link is external)10.01 MBMon, 2020-01-27 10:00 \nSpectrum_of_India_AVIRIS-NG.pdf(link is external)27.64 MBThu, 2016-12-22 10:00 \nGlimspes_of_India_by_RISAT-1.pdf(link is external)88.53 MBMon, 2015-08-31 10:00 \nEyes_on_Waves_from_Space.pdf(link is external)6.24 MBThu, 2018-05-03 10:00 \nExploring_the_Antarctic.pdf(link is external)35.11 MBWed, 2020-02-19 10:00 \nImages_of_Moon_From_Chandrayan-1.pdf(li",
+        "links": [
+          {
+            "url": "#quickset-atlases_qt_0",
+            "text": "Download PDF"
+          },
+          {
+            "url": "https://www.mosdac.gov.in/filebrowser/download/1290",
+            "text": "viewing_ocean_from_space.pdf(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Download PDF",
+        "description": "Download PDF\n\n\n\n\n\nDisplay namesizemodified \nDisplay namesizemodified \n\nviewing_ocean_from_space.pdf(link is external)10.01 MBMon, 2020-01-27 10:00 \nSpectrum_of_India_AVIRIS-NG.pdf(link is external)27.64 MBThu, 2016-12-22 10:00 \nGlimspes_of_India_by_RISAT-1.pdf(link is external)88.53 MBMon, 2015-08-31 10:00 \nEyes_on_Waves_from_Space.pdf(link is external)6.24 MBThu, 2018-05-03 10:00 \nExploring_the_Antarctic.pdf(link is external)35.11 MBWed, 2020-02-19 10:00 \nImages_of_Moon_From_Chandrayan-1.pdf(li",
+        "links": [
+          {
+            "url": "#quickset-atlases_qt_0",
+            "text": "Download PDF"
+          },
+          {
+            "url": "https://www.mosdac.gov.in/filebrowser/download/1290",
+            "text": "viewing_ocean_from_space.pdf(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Download PDF",
+        "description": "Download PDF\n\n\n\n\n\nDisplay namesizemodified \nDisplay namesizemodified \n\nviewing_ocean_from_space.pdf(link is external)10.01 MBMon, 2020-01-27 10:00 \nSpectrum_of_India_AVIRIS-NG.pdf(link is external)27.64 MBThu, 2016-12-22 10:00 \nGlimspes_of_India_by_RISAT-1.pdf(link is external)88.53 MBMon, 2015-08-31 10:00 \nEyes_on_Waves_from_Space.pdf(link is external)6.24 MBThu, 2018-05-03 10:00 \nExploring_the_Antarctic.pdf(link is external)35.11 MBWed, 2020-02-19 10:00 \nImages_of_Moon_From_Chandrayan-1.pdf(li",
+        "links": [
+          {
+            "url": "#quickset-atlases_qt_0",
+            "text": "Download PDF"
+          },
+          {
+            "url": "https://www.mosdac.gov.in/filebrowser/download/1290",
+            "text": "viewing_ocean_from_space.pdf(link is external)"
+          }
+        ]
+      },
+      {
+        "title": "Download PDF",
+        "description": "Download PDF\n\n\n\n\n\nDisplay namesizemodified \nDisplay namesizemodified \n\nviewing_ocean_from_space.pdf(link is external)10.01 MBMon, 2020-01-27 10:00 \nSpectrum_of_India_AVIRIS-NG.pdf(link is external)27.64 MBThu, 2016-12-22 10:00 \nGlimspes_of_India_by_RISAT-1.pdf(link is external)88.53 MBMon, 2015-08-31 10:00 \nEyes_on_Waves_from_Space.pdf(link is external)6.24 MBThu, 2018-05-03 10:00 \nExploring_the_Antarctic.pdf(link is external)35.11 MBWed, 2020-02-19 10:00 \nImages_of_Moon_From_Chandrayan-1.pdf(li",
+        "links": [
+          {
+            "url": "#quickset-atlases_qt_0",
+            "text": "Download PDF"
+          },
+          {
+            "url": "https://www.mosdac.gov.in/filebrowser/download/1290",
+            "text": "viewing_ocean_from_space.pdf(link is external)"
+          }
+        ]
+      }
+    ],
+    "tables_count": 2,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/tools",
+    "title": "Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a Data Centre of Space Applications Centre (SAC) for satellite data reception, processing, analysis and dissemination.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Softwares / Tools"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Softwares / Tools",
+        "description": "Softwares / Tools \n\n\n\n\n\n\n\n\n\n\n\n            Description          \n\nPlatform \n\n            Download URL          \n\n\n\n\n\n\n\n            IDV Plugin for INSAT-3D | 3DR Data Products          \n\nIDV Plugin for INSAT-3D | 3DR Data Products \n\n            Linux & Windows - 64 bit          \n\nhttps://mosdac.gov.in/software/INSAT_IDV_PLUGIN.jar \n\n            Format: JAR, Size: 3.3 MB          \n\n\n\n            Atmospheric Correction Model for Resourcesat-2 AWiFS data (SACRS2)          \n\nAtmospheric Correction Mod",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/rss-feed",
+    "title": "RSS Feed | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Uses RSS (Rich Site Summary) based technology for dissemination of Satellite Images and Data Products to end users on InternetAllow Users to subscribe to these feeds automatically and get notified for",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "RSS Feed"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "RSS Feed",
+        "description": "RSS Feed \n\n\n\n\n\n\nUses RSS (Rich Site Summary) based technology for dissemination of Satellite Images and Data Products to end users on Internet\nAllow Users to subscribe to these feeds automatically and get notified for availability of new data sets\nFeed subscription is supported by Standard browsers and on RSS readers available on Mobile Apps\nEnhanced Features specific to Satellite Data are Planned in Customized Client, supporting automated download, analysis and visualization of data Currently S",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 0
+  },
+  {
+    "url": "https://www.mosdac.gov.in/data-access-policy",
+    "title": "Data Access Policy | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Access ProfileDatasetsLatencyRegistered General UsersAccess to limitedLatency of 3 daysRegistered Privileged UsersAccess to all dataNRT AccessAnonymous UsersAccess to metadata/image and Open DataNRT AccessData access will be provided as per above policies (all that applies).Data Access Guidelines (Bilingual; Size:415KB Format:PDF Tool:PDFViewer) /(English; Size:323KB",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Data Access Policy"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Data Access Policy",
+        "description": "Data Access Policy \n\n\n\n\n\n\n \n\n\n\nAccess Profile\nDatasets\nLatency\n\n\nRegistered General Users\nAccess to limited\nLatency of 3 days\n\n\nRegistered Privileged Users\nAccess to all data\nNRT Access\n\n\nAnonymous Users\nAccess to metadata/image and Open Data\nNRT Access\n\n\n\nData access will be provided as per above policies (all that applies).\nData Access Guidelines (Bilingual; Size:415KB Format:PDF Tool:PDFViewer) /(English; Size:323KB Format:PDF Tool:PDFViewer)\n \n\n हिन्दी",
+        "links": []
+      }
+    ],
+    "tables_count": 1,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/copyright-policy",
+    "title": "Copyright Policy | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Material featured on this site may be reproduced free of charge in any format or media without requiring specific permission. This is subject to the material being reproduced accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the source must be prominently acknowledged. However, the",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Copyright Policy"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/privacy-policy",
+    "title": "Privacy Policy | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "This Policy outlines the types of information we gather about you and how we use it. We understand that your personal information is very sensitive, and protecting the privacy of this information is a top priority for us. All the information collected by this site will be kept strictly confidential.",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Privacy Policy"
+      }
+    ],
+    "faqs": [],
+    "data_products": [],
+    "tables_count": 0,
+    "lists_count": 1
+  },
+  {
+    "url": "https://www.mosdac.gov.in/terms-conditions",
+    "title": "Terms & Conditions | Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "This website is designed, developed and maintained by Space Applications Centre, Indian Space Research Organisation, Department of Space, Government of India.Though all efforts have been made to ensure the accuracy and currency of the content of this website, the same should not be construed as a statement of law or used for any legal purposes.Under no circumstances the MOSDAC",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Terms & Conditions"
+      }
+    ],
+    "faqs": [],
+    "data_products": [
+      {
+        "title": "Terms & Conditions",
+        "description": "Terms & Conditions \n\n\n\n\n\n\nThis website is designed, developed and maintained by Space Applications Centre, Indian Space Research Organisation, Department of Space, Government of India.\nThough all efforts have been made to ensure the accuracy and currency of the content of this website, the same should not be construed as a statement of law or used for any legal purposes.\nUnder no circumstances the MOSDAC will be liable for any expense, loss or damage including, without limitation, indirect or co",
+        "links": []
+      }
+    ],
+    "tables_count": 0,
+    "lists_count": 1
+  }
+]

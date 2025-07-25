@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# VSCode settings
+.vscode/
+
+# Frontend build artifacts
+web/frontend/build/
+web/frontend/dist/
+
+# Ignore data if you want to keep it private (remove this line if you want to push data)
+# data/
